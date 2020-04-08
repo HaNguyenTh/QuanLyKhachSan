@@ -1,0 +1,8 @@
+D:\Code up gif\QuanLyKhachSanDeMo\bin\Debug\QuanLyKhachSanDeMo.exe
+D:\Code up gif\QuanLyKhachSanDeMo\bin\Debug\QuanLyKhachSanDeMo.pdb
+D:\Code up gif\QuanLyKhachSanDeMo\obj\Debug\QuanLyKhachSanDeMo.csprojAssemblyReference.cache
+D:\Code up gif\QuanLyKhachSanDeMo\obj\Debug\QuanLyKhachSanDeMo.Form1.resources
+D:\Code up gif\QuanLyKhachSanDeMo\obj\Debug\QuanLyKhachSanDeMo.Properties.Resources.resources
+D:\Code up gif\QuanLyKhachSanDeMo\obj\Debug\QuanLyKhachSanDeMo.csproj.GenerateResource.cache
+D:\Code up gif\QuanLyKhachSanDeMo\obj\Debug\QuanLyKhachSanDeMo.exe
+D:\Code up gif\QuanLyKhachSanDeMo\obj\Debug\QuanLyKhachSanDeMo.pdb
